@@ -1,4 +1,5 @@
 # navigator_2_with_router
+- Used `Provider` package for app state / global state management
 
 A new Flutter project.
 
