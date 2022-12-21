@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:navigator_2_with_router/models/screen_paths.dart';
 import 'package:provider/provider.dart';
-import 'package:navigator_2_with_router/global_states/books_state.dart'; // imported this to use the Books type
+import 'package:navigator_2_with_router/global_states/books_state.dart'; // imported this to use the Books type for the Consumer
 
 class BookListScreen extends StatelessWidget {
   final void Function(int bookId, String path) onBookTapped;
