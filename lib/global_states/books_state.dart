@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:navigator_2_with_router/models/book.dart';
+import 'package:navigator_2_with_router/data_models/book.dart';
 
 class Books extends ChangeNotifier {
   List<Book> books = [

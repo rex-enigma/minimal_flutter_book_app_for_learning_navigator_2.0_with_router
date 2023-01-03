@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:navigator_2_with_router/global_states/books_state.dart';
 import 'package:provider/provider.dart';
 
-import '../models/book.dart';
+import '../data_models/book.dart';
 
 class BookDetailsScreen extends StatelessWidget {
   final int bookId;

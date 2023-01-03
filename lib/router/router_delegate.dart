@@ -2,7 +2,7 @@ import 'dart:ffi';
 
 import 'package:flutter/material.dart';
 import 'package:navigator_2_with_router/router/route_information_parser.dart';
-import 'package:navigator_2_with_router/models/screen_paths.dart';
+import 'package:navigator_2_with_router/data_models/screen_paths.dart';
 import 'package:navigator_2_with_router/screens/book_list_screen.dart';
 import 'package:navigator_2_with_router/screens/book_cart_screen.dart';
 import 'package:navigator_2_with_router/screens/book_details_screen.dart';

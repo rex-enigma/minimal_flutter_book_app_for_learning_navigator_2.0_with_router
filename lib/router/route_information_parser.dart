@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:navigator_2_with_router/models/screen_paths.dart';
+import 'package:navigator_2_with_router/data_models/screen_paths.dart';
 
 // This class is used by Router widget to parse route information into user-defined data type.
 class BookRouteInformationParser extends RouteInformationParser<BookRoutePath> {
